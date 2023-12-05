@@ -1,0 +1,5 @@
+mrlx,lakshay,123
+money,leo,5
+car,neo,6
+hat,pary,9
+not ypurs,noe,3
